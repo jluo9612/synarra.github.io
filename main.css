@@ -1,0 +1,35 @@
+body {
+    background: #fff;
+    text-align: center;
+}
+
+header {
+    height: 200px;
+}
+
+.controls {
+    background: pink;
+}
+
+.dsp-nav {
+    background: yellow;
+}
+
+.comic-display {
+    background: beige;
+    max-width: 900px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.comic-cover {
+    max-width: 500px;
+}
+
+.universal {
+    background: grey;
+    
+}
